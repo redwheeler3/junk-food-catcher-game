@@ -1,6 +1,7 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "junk-food-catcher-game",
   "private": true,
+  "license": "MIT",
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://junk.jeffo.net",
